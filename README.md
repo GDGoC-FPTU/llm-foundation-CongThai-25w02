@@ -71,7 +71,7 @@ Bạn có thể thiết lập biến môi trường trực tiếp từ terminal 
 * **Windows (CMD):**
   ```cmd
   set OPENAI_API_KEY=sk-proj-your-openai-key-here
-  set GEMINI_API_KEY=AIzaSy-your-gemini-key-here
+  set GEMINI_API_KEY=AIzaSyC_mfeZwMOfXI1c9TOLaEcuhsPYwUI5Evo
   ```
 
 * **macOS/Linux (Terminal):**
